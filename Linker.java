@@ -3,7 +3,6 @@
 //Lab 1
 //9.19.17
 
-package linkerLab;
 import java.util.*;
 
 public class Linker {
